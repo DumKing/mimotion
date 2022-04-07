@@ -1,4 +1,4 @@
-# -*- coding: utf8 -*-
+# -*- coding: utf8 ss-*-
 import requests, time, datetime, re,sys, json, random
 
 # 设置开始
